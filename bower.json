@@ -1,0 +1,26 @@
+{
+  "name": "next-find-key",
+  "description": "This method is like .find except that it returns the key of the first element predicate returns truthy for instead of the element itself.",
+  "main": "dist/next-find-key.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-find-key",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
